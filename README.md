@@ -43,10 +43,3 @@ OPENAI_API_KEY=your-openai-api-key
 streamlit run main.py
 ```
 
-## Contact me
-
-**Anas Algunaid**
-
-If you have any questions or suggestions, please feel free to contact me:
-
-📫: aljunaidanas@gmail.com
